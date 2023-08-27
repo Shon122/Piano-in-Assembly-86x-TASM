@@ -1,16 +1,10 @@
 # Piano-in-Assembly-86x-TASM
 A single octave piano built in assembly 86x (TASM), includes playable notes and songs.
 
-![homepage](https://github.com/Shon122/Piano-in-Assembly-86x-TASM/blob/main/homepage.bmp)
-
-![howtp](https://github.com/Shon122/Piano-in-Assembly-86x-TASM/blob/main/howtp.bmp)
-
+![homepage](https://github.com/Shon122/Piano-in-Assembly-86x-TASM/blob/main/homepage.bmp) ![howtp](https://github.com/Shon122/Piano-in-Assembly-86x-TASM/blob/main/howtp.bmp)
 ![menu](https://github.com/Shon122/Piano-in-Assembly-86x-TASM/blob/main/menu.bmp)
-
 ![songs](https://github.com/Shon122/Piano-in-Assembly-86x-TASM/blob/main/songs.bmp)
-
 ![piano](https://github.com/Shon122/Piano-in-Assembly-86x-TASM/blob/main/piano.bmp)
-
 ![aboutme](https://github.com/Shon122/Piano-in-Assembly-86x-TASM/blob/main/aboutme.bmp)
 
 
